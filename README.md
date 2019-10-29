@@ -23,10 +23,10 @@ Flow
 - Try it yourself - Develop a PRD for your product
 
 Readings
-- [A Product Manager's Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec#.1f5wvawiv)
-- [Product Manager, You Are... A Janitor, Essentially](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e)
-- [Seven Lessons I Learned from Dinnr's Failure](https://medium.com/indian-thoughts/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8)
-- [An MVP Is Not A Cheaper Product, It's About Smart Learning](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/)
+- [A Product Manager's Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec#.1f5wvawiv) by Josh Elman
+- [Product Manager, You Are... A Janitor, Essentially](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e) by Mat Balez
+- [Seven Lessons I Learned from Dinnr's Failure](https://medium.com/indian-thoughts/seven-lessons-i-learned-from-the-failure-of-my-first-startup-dinnr-c166d1cfb8b8) by Michal Bohanes
+- [An MVP Is Not A Cheaper Product, It's About Smart Learning](https://steveblank.com/2013/07/22/an-mvp-is-not-a-cheaper-product-its-about-smart-learning/) by Steve Blank
 
 Class Assignment
 - Develop a Product Requirements Doc (template will be provided) for a product in your sector (provided that resources are not an issue)
@@ -39,7 +39,7 @@ Flow
 - Why (and how) UX matters
 
 Readings
-- [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?mtrref=undefined&gwh=6B59CF5B2252BA9B77C5B57AE451DF05&gwt=pay&assetType=PAYWALL)- NYTimes
+- [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?mtrref=undefined&gwh=6B59CF5B2252BA9B77C5B57AE451DF05&gwt=pay&assetType=PAYWALL) - NYTimes
 - [Stop Worrying About the Cupholders](https://www.usersknow.com/blog/2011/08/stop-worrying-about-cupholders.html) by Laura Klein
 
 Class Assignment
