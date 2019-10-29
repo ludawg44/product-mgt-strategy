@@ -14,6 +14,14 @@ A repostiory for HBAP mini course taught by Marily Nika, Google ML Product Manag
 # Introduction
 
 # Session 1
+Flow
+- How did Product Management emerge? Why is it essential for an organization?
+- How does the PM’s role change over the lifecycle of the product?
+- What are the attributes of a good (and a bad) PM?
+- Product Management Triad (Product Management, Engineering & UX)
+- 4 stages of Product Definition (Customer Discovery, Ideation, MVP, Iteration & Specification) - Understanding the Product Requirements Document
+- Try it yourself - Develop a PRD for your product
+
 Readings
 - [A Product Manager's Job](https://medium.com/@joshelman/a-product-managers-job-63c09a43d0ec#.1f5wvawiv)
 - [Product Manager, You Are... A Janitor, Essentially](https://medium.com/all-things-product-management/product-manager-you-are-664d83ee702e)
@@ -24,6 +32,18 @@ Class Assignment
 - Develop a Product Requirements Doc (template will be provided) for a product in your sector (provided that resources are not an issue)
 
 # Session 2
+Flow
+- Discuss the rest of the documents that make up a product, i.e. (Design Doc etc)
+- Dive deep on Users, Personas and Use Cases
+- Prioritize and work with engineers that can implement a successful MVP
+- Why (and how) UX matters
+
+Readings
+- [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?mtrref=undefined&gwh=6B59CF5B2252BA9B77C5B57AE451DF05&gwt=pay&assetType=PAYWALL)- NYTimes
+- [Stop Worrying About the Cupholders](https://www.usersknow.com/blog/2011/08/stop-worrying-about-cupholders.html) by Laura Klein
+
+Class Assignment
+- Expand the PRD with User Groups, Use Cases, Pain points
 
 # Session 3
 
