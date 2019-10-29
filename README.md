@@ -53,4 +53,4 @@ A repostiory for HBAP mini course taught by Marily Nika, Google ML Product Manag
 - Pending
 
 # Miscelleaneous
-- Books
+- [Product Management books](https://github.com/ludawg44/product-mgt-strategy/tree/master/Product%20and%20Design%20Books)
