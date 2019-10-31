@@ -46,6 +46,19 @@ A repostiory for HBAP mini course taught by Marily Nika, Google ML Product Manag
 - Expand the PRD with User Groups, Use Cases, Pain points
 
 # Session 3
+*Flow*
+- Is your Product ready for growth?
+- Measuring Success and setting the right metrics
+- Experiments and A/B tests
+- Defining a long-term strategy
+- Feature prioritization, MVP, success criteria, pitch deck
+   
+*Readings*
+- [The only metric that matters](https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c?gi=bf4e824144f5) by Josh Elman
+- [How to create a pitch deck](https://www.forbes.com/sites/alejandrocremades/2018/03/02/how-to-create-a-pitch-deck/#2376198056c0) by Forbes
+
+*Class Assignment*
+- Finalize PRD with: Feature prioritization, success criteria and create pitch deck
 
 # Session 4
 
