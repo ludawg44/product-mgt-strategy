@@ -68,3 +68,5 @@ A repostiory for HBAP mini course taught by Marily Nika, Google ML Product Manag
 # Miscelleaneous
 - [Product Management books](https://github.com/ludawg44/product-mgt-strategy/tree/master/Product%20and%20Design%20Books)
 - [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/)
+- [How to be a GREAT Product Manager](https://medium.com/@swkhan/how-to-be-a-great-product-manager-6f10e4a292b5)
+- [How to hire a Product Manager](https://www.kennorton.com/essays/productmanager.html)
