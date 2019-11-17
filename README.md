@@ -31,6 +31,8 @@ A repostiory for HBAP mini course taught by Marily Nika, Google ML Product Manag
 *Class Assignment*
 - Develop a Product Requirements Doc (template will be provided) for a product in your sector (provided that resources are not an issue)
 
+Class slidedeck and PRD are saved in the main repo. 
+
 # Session 2
 *Flow*
 - Discuss the rest of the documents that make up a product, i.e. (Design Doc etc)
